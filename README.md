@@ -1,3 +1,7 @@
+# Tic-Tac-Toe
+
+This [tutorial for learning React](https://reactjs.org/tutorial/tutorial.html), which provides HTML, CSS, and some JavaScript/React code. I added a feature to detect for a Draw condition.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
